@@ -2,7 +2,7 @@
 A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India
 
 ## Key TBI Reports
-- [TB Incidence and Mortality (Year 2015-2022)](https://github.com/fromsantanu/tbd)  : A visual report based on the current government report that has been published.
+- [TB Incidence and Mortality (Year 2015-2022)](https://github.com/fromsantanu/Prog1-TBIndia-Estimated-Incidence-And-Mortality)  : A visual report based on the current government report that has been published.
 - [TB Tests Conducted Every Year (Year 2017-2022)](https://github.com/fromsantanu/tbd)  : A visual report on the various type of tests that hve been contducted yearly 2017 to 2022. 
 
 
