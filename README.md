@@ -2,8 +2,8 @@
 A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India
 
 ## Key TBI Reports
-- [Assessing Blood Pressure Stability Among Individuals or Group](https://github.com/fromsantanu/Project1-STM-Blood-Pressure-Stability)  : Here blood pressure study of systolic readings of two individuals indicate that one is stable and other is heavily fluctuating causing greater risk of heart attack.
-- [Analysis of Total Cholestrol Level Among Group of Patients](https://github.com/fromsantanu/Project2-STM-Analysis-of-Total-Cholestrol-Level)  : The program analyzes spread of Total-Cholestrol-Level readings from mean value. 
+- [TB Incidence and Mortality (Year 2015 - 2022)](https://github.com/fromsantanu/tbd)  : A visual report based on the current government report that has been published.
+- [TB Tests Conducted Every Year (Year 2017-2022)](https://github.com/fromsantanu/tbd)  : A visual report on the various type of tests that hve been contducted yearly 2017 to 2022. 
 
 
 ## Watch the Intro 
