@@ -1,5 +1,5 @@
 # TB India Main : Tuberculosis in India (A Report)
-A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India
+The "India TB Report 2023" provides a comprehensive overview of the efforts and progress made under the National Tuberculosis Elimination Programme (NTEP) in India.
 
 ## Key TBI Reports
 - [Chapter 1 - Summary](#) - Structure of National Tuberculosis Elemination Program : This chapter details the organizational structure of the NTEP, including the roles and responsibilities at national, state, and district levels. It emphasizes the collaborative approach between the Central and State Governments to implement TB control activities.
